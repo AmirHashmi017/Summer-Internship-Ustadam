@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<odoo>
+    <menuitem id="job_appliction_menu_root" name="JobApplicationForm">
+        <menuitem id="job_application_first_level_menu" name="Applications">
+            <menuitem id="job_application_action_menu" action="job_application_action">
+            </menuitem>
+        </menuitem>
+    </menuitem>
+    </odoo>
